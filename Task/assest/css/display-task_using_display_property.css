@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    border: 2px solid black;
+} 
+.home{
+    border:2px solid black;
+    width: 100px; 
+    height: 40px;   
+    margin: 10px 0 0 20px;
+    display: inline-block;
+    text-align: center;
+}
+.about{
+    border: 2px solid black;
+     width: 150px;
+     height: 40px;
+     margin: 10px 0 0 50px;
+     display: inline-block;
+     text-align: center;
+}
+.logo{
+    border: 2px solid black;
+     width: 120px;
+     height: 40px;
+     margin: 10px 0px 0 1000px;
+     display: inline-block;
+     text-align: center;
+}
