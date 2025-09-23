@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+    background-image: url(../images/sec_third_img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.col50{
+    width:50%;
+}
+.style{
+    background-color: orangered;
+    margin
+}
+h2{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+p{
+   color: white;
+}
+.d-flex{
+    display: flex;
+}
