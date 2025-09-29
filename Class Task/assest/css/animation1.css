@@ -1,0 +1,16 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    background-color: brown;
+    position: relative;
+    animation-name: new;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+    animation-iteration-count: 10;
+}
+@keyframes new{
+    from{
+        
+    }
+}
