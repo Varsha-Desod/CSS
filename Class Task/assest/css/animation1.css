@@ -8,9 +8,13 @@
     animation-duration: 5s;
     animation-timing-function: ease;
     animation-iteration-count: 10;
+    animation-direction: alternate-reverse;
 }
 @keyframes new{
     from{
-        
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(180deg);
     }
 }
